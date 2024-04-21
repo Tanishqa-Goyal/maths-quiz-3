@@ -1,0 +1,18 @@
+#output
+{
+background: white;
+border-radius: 10px;
+border-top: 10px solid #AA4465;
+padding: 10px;
+float: none;
+text-align: left;
+}
+#player2_name_input{
+    width:40% ;
+}
+#player1_name_input{
+    width:40% ;
+}
+body{
+    background-color:rgb(208, 228, 104);
+}
